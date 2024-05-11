@@ -1,0 +1,10 @@
+photos/
+test.js
+node_modules/
+package-lock.json
+package.json
+.env
+photos.json
+albums.json
+.DS_Store
+.vscode/launch.json
